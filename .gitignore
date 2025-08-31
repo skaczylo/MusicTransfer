@@ -1,0 +1,13 @@
+**/.env
+**/.spotipy_cache
+**/__pycache__/
+**/cookies.json
+**/browser.json
+**/.cache
+selenium_youtube.py
+/chromedriver-win64/
+**/prueba.py
+**/build/
+**/dist/
+./MusicTransfer.spec
+./gitignore
