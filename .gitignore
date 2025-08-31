@@ -11,3 +11,4 @@ selenium_youtube.py
 **/dist/
 ./MusicTransfer.spec
 ./gitignore
+./log.txt

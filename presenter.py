@@ -3,6 +3,16 @@ import youtube
 import spotify
 import threading
 
+MESSAGE = (
+    "✅ Done!\n\n"
+    "Thank you for using MusicTransfer! I hope it has been helpful.\n\n"
+    "If you found it useful and would like to support the development of the app, "
+    "I would greatly appreciate any contribution you consider appropriate. "
+    "Your support helps me continue improving MusicTransfer.\n\n"
+    "You can donate via PayPal here:  paypal.me/AdrianCarlosSkaczylo\n\n"
+    "Thank you again for your support and feedback!"
+)
+
 
 class Presenter:
 
@@ -135,7 +145,7 @@ class Presenter:
         self.transfer_data(fetching_callback=frame.update_label,
                            progress_callback=frame.update_progress)
         
-        frame.update_label(text="✅ Done!")
+        frame.update_label(text=MESSAGE)
         frame.progress.set(1)
 
     def transfer_data(self,fetching_callback = None,progress_callback = None):
