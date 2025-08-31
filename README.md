@@ -5,6 +5,12 @@
 # MusicTransfer
 
 **MusicTransfer** is a small program that lets you transfer songs and playlists between **Spotify** and **YouTube Music** — completely free of charge.
+**Music Transfer** allows you to transfer both songs saved in "Liked Songs" and playlists between platforms. It’s very easy to use—just follow the steps provided when you run the program.
+
+If you have any questions about the steps, this file includes additional information with images to help you log in to the different platforms.
+
+
+---
 
 # Download
 
