@@ -9,6 +9,10 @@
 
 If you have any questions about the steps, this file includes additional information with images to help you log in to the different platforms.
 
+If you find the program useful and it has helped you transfer your data, I would greatly appreciate it if you could make a small donation to help me continue improving and expanding the application.
+[PayPal](https://www.paypal.me/AdrianCarlosSkaczylo).
+
+
 
 ---
 
