@@ -8,7 +8,9 @@
 
 # Download
 
-[Donwload here] (https://github.com/skaczylo/MusicTransfer/releases/tag/v1.0)
+Download the Windows executable here: [MusicTransfer.zip](https://github.com/skaczylo/MusicTransfer/releases/tag/v1.0)
+
+
 
 ---
 
